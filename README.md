@@ -61,43 +61,56 @@ Dashboard
 - Upper Wick Ratio
 - Lower Wick Ratio
 
-### Step 4: Market Structure and Trend Analysis
+## Step 4: Market Structure & Trend Analysis
+
+Implemented:
+
+- Pivot High Detection
+- Pivot Low Detection
 - Higher High (HH)
 - Higher Low (HL)
 - Lower High (LH)
 - Lower Low (LL)
-- Uptrend Detection
-- Downtrend Detection
-- Sideways Detection
-- Market Control Analysis
+- Trend Direction
+- Market Control
+- Higher Timeframe Bias (HTF Bias)
+- Market Structure Visualization
 
 ## Upcoming Modules
 
-### Step 5: Candlestick Pattern Recognition
+### Step 5: Advanced Market Structure & Trend Reversal Identification
+- Swing High Detection
+- Swing Low Detection
+- Break of Structure (BOS)
+- Change of Character (CHOCH)
+- Uptrend → Downtrend Reversal
+- Downtrend → Uptrend Reversal
+- Sideways → Uptrend Breakout
+- Sideways → Downtrend Breakdown
+
+### Step 6: Candlestick Pattern Recognition
 - Hammer
+- Inverted Hammer
 - Doji
 - Bullish Engulfing
 - Bearish Engulfing
 - Morning Star
 - Evening Star
 - Shooting Star
-- Inverted Hammer
 
-### Step 6: Trend Reversal Identification
-- Uptrend → Downtrend Reversal
-- Downtrend → Uptrend Reversal
-- Sideways → Uptrend Breakout
-- Sideways → Downtrend Breakdown
-
-### Step 7: Machine Learning Model Development
+### Step 7: ML Dataset Preparation
+- Pattern Label Generation
+- Trend Label Generation
 - Feature Selection
-- Dataset Preparation
-- Target Label Creation
+- Train/Test Dataset Creation
+- ML-ready Dataset Export
 
-### Step 8: Model Training
+### Step 8: Machine Learning Model Development
 - Random Forest
 - XGBoost
 - Logistic Regression
+- Pattern Classification
+- Trend Prediction
 
 ### Step 9: Model Evaluation
 - Accuracy
@@ -105,13 +118,24 @@ Dashboard
 - Recall
 - F1 Score
 - Confusion Matrix
+- Feature Importance Analysis
 
-### Step 10: Buy/Sell Signal Generation
-- Trading Signals
-- Risk Analysis
-- Confidence Score
+### Step 10: Trading Signal Generation
+- Buy Signal Detection
+- Sell Signal Detection
+- Confidence Score Calculation
+- Risk Management Rules
 
 ### Step 11: Visualization Dashboard
+- Market Structure Dashboard
 - Trend Dashboard
 - Pattern Dashboard
 - Signal Dashboard
+- Interactive Charts
+
+### Step 12: Automated Trading System (Future Scope)
+- Real-Time Data Integration
+- Live Pattern Detection
+- Automated Trade Execution
+- Portfolio Monitoring
+- Performance Analytics
