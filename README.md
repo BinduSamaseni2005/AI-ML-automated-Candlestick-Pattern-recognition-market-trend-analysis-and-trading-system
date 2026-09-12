@@ -70,3 +70,48 @@ Dashboard
 - Downtrend Detection
 - Sideways Detection
 - Market Control Analysis
+
+## Upcoming Modules
+
+### Step 5: Candlestick Pattern Recognition
+- Hammer
+- Doji
+- Bullish Engulfing
+- Bearish Engulfing
+- Morning Star
+- Evening Star
+- Shooting Star
+- Inverted Hammer
+
+### Step 6: Trend Reversal Identification
+- Uptrend → Downtrend Reversal
+- Downtrend → Uptrend Reversal
+- Sideways → Uptrend Breakout
+- Sideways → Downtrend Breakdown
+
+### Step 7: Machine Learning Model Development
+- Feature Selection
+- Dataset Preparation
+- Target Label Creation
+
+### Step 8: Model Training
+- Random Forest
+- XGBoost
+- Logistic Regression
+
+### Step 9: Model Evaluation
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- Confusion Matrix
+
+### Step 10: Buy/Sell Signal Generation
+- Trading Signals
+- Risk Analysis
+- Confidence Score
+
+### Step 11: Visualization Dashboard
+- Trend Dashboard
+- Pattern Dashboard
+- Signal Dashboard
