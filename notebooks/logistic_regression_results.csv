@@ -1,0 +1,9 @@
+Pattern,Accuracy,Precision,Recall,F1_Score
+Hammer,0.9375,0.4737,0.9474,0.6316
+Inverted_Hammer,0.9018,0.4043,0.7917,0.5352
+Doji,0.9613,0.8085,0.9048,0.8539
+Bullish_Engulfing,0.7946,0.0845,0.6,0.1481
+Bearish_Engulfing,0.753,0.1383,0.8667,0.2385
+Shooting_Star,0.9226,0.3333,1.0,0.5
+Morning_Star,0.7946,0.36,0.878,0.5106
+Evening_Star,0.8214,0.4286,0.913,0.5833
