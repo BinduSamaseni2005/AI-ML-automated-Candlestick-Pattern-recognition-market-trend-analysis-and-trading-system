@@ -1,5 +1,5 @@
 Metric,Best Model,Score
-Accuracy,XGBoost,0.9459
-Precision,XGBoost,0.5832
-Recall,Logistic Regression,0.8702
-F1_Score,Decision Tree,0.5786
+Accuracy,XGBoost,0.9669
+Precision,XGBoost,0.7779
+Recall,Logistic Regression,0.8529
+F1_Score,Decision Tree,0.5089
